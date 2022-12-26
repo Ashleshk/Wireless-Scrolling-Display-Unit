@@ -6,4 +6,4 @@
 
 
 ## Won Project Exhibition Competition 
-![Achivement](https://github.com/Ashleshk/Wireless-Scrolling-Display-Unit/blob/master/IMG_20190330_142214.jpg)
+![Achivement](https://github.com/Ashleshk/Wireless-Scrolling-Display-Unit/blob/master/Competition.jpg)
